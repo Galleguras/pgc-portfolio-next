@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+public
+src/data
+package-lock.json
+.openai
+
+next-env.d.ts

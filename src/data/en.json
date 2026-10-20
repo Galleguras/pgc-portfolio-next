@@ -1,0 +1,51 @@
+{
+    "portafolio Pablo": "Pablo Portfolio",
+    "Mi portafolio virtual desarrollado con Gatsby": "My virtual portfolio developed with Gatsby, MUI, React and Styled Components",
+
+    "title": "Developer | Designer | Web Content Creator | Entrepeneur",
+    "Certificaciones y Cursos": "Certifications & Courses",
+    "Déjame contarte algo sobre mí": "Let me tell you something about me",
+
+    "p1": "I am currently part of one of the world's leading providers of information and communication technologies.",
+    "p2": "Most of my career is linked to the development of banking software, public administration, the insurance sector, as well as other personal projects. Within this context, I have worked with different programming languages ​​and development tools, always at the forefront of technology, in order to achieve attractive and scalable applications.",
+    "p3": "At the beginning of my career my profile was rather linked to the field of the Backend and web services, until I was offered the opportunity to start working with Java Script, that's when I became aware of my own potential, since with JavaScript I could practically make any development. Then Webpack, ES6 and React arrived, an impressive library that opened the doors to a world full of possibilities under the concept of JAMStack:",
+    "p4": "“A modern architecture for web development based on the use of JS on the client, reusable APIs and precalculated Markup”",
+    "p5": "Since then, this is the part that currently arouses the most interest in me and in which I feel most comfortable. Later I discovered Next.js, Gatsby, Styled-Components, Ant Design, Material UI, among other frameworks and libraries on which I currently base my development to offer a modern, scalable, responsive and fast a product with good performance designed to meet the needs of any client.",
+
+    "Mis Proyectos": "My Projects",
+
+    "Periodo": "Range Time",
+    "Puesto": "Job",
+    "Funciones": "Functions",
+    "Herramientas/Tecnologías": "Technology/Tools",
+    "Clientes": "Customers",
+    "Actualidad": "Current",
+
+    "Trabajemos juntos y creemos algo único": "Let's work together and create something unique",
+
+    "Pablo Gallego Carmona": "Pablo Gallego Carmona",
+    "España (Granada) Av. del Conocimiento, 41, 18016": "Spain (Granada) Av. del Conocimiento, 41, 18016",
+    "Contacta conmigo": "Contact me",
+    "Y pongámonos manos a la obra": "And let's get down to work",
+    "Diseñado por Pablo Gallego Carmona": "Design By Pablo Gallego Carmona",
+
+    "Formulario de Conacto": "Contact Form",
+    "Nombre": "Fist Name",
+    "Apellidos": "Surname",
+    "Telefono": "Phone",
+    "Mail": "Mail",
+    "Mensaje": "Message",
+    "Enviar": "Send",
+    "Cancelar": "Cancel",
+    "El nombre es obligatorio": "Name is required",
+    "El apellido es obligatorio": "Surname is required",
+    "El telefono es obligatorio": "Phone is required",
+    "Debe ser numerico": "Must be a number",
+    "El email es obligatorio": "Mail is required",
+    "El mensaje es demasiado corto": "Message is too short",
+    "El mensaje es demasiado largo": "Message is too long",
+    "El message es obligatorio": "The message is required",
+    "Descarga el codigo de GitHub": "Download the code from GitHub",
+    "horas": "hours",
+    "Descargar CV": "Download CV"
+}
